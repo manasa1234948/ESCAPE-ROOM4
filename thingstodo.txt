@@ -1,0 +1,12 @@
+Remove unncessary qm , 
+and place attractive buttons
+
+position of the question for that odd oneout and the circle carrot(images )
+space bar issue
+game states0 ,1, 2
+submit button for qm
+fix invisible ground
+submit button not working
+
+
+
